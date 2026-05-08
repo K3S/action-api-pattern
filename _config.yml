@@ -28,6 +28,21 @@ aux_links:
     - "https://github.com/K3S/action-api-pattern"
 aux_links_new_tab: true
 
+# External links in the sidebar — cross-link the K3S tutorial network
+nav_external_links:
+  - title: King III Solutions
+    url: https://k3s.com
+    hide_icon: false
+  - title: RPG Tutorial
+    url: https://rpgtutorial.k3s.com
+    hide_icon: false
+  - title: IBM i AI Workers
+    url: https://ibmi-ai-workers.k3s.com
+    hide_icon: false
+  - title: PHP, PDO & ODBC on IBM i
+    url: https://odbcphp.k3s.com/
+    hide_icon: false
+
 # Heading anchors
 heading_anchors: true
 
