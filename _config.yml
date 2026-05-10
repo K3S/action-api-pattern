@@ -16,16 +16,16 @@ search:
   rel_url: true
   button: false
 
-# Aux nav links (top-right)
+# Google Analytics
+ga_tracking: G-KJ93VCQ3EE
+ga_tracking_anonymize_ip: true
+
+# Top-right auxiliary links
 aux_links:
-  "K3S":
-    - "https://k3s.com"
-  "RPG Tutorial":
-    - "https://rpgtutorial.k3s.com"
-  "AI Workers":
-    - "https://ibmi-ai-workers.k3s.com"
-  "GitHub":
+  "View on GitHub":
     - "https://github.com/K3S/action-api-pattern"
+  "Sponsored by K3S":
+    - "https://k3s.com"
 aux_links_new_tab: true
 
 # External link in the sidebar
